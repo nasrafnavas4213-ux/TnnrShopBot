@@ -7,7 +7,7 @@ from telebot import types
 # ---------------------------------------------------------------------------
 # 1. CONFIGURATION & CONFIG CONSTANTS
 # ---------------------------------------------------------------------------
-API_TOKEN = '8710564963:AAE9C_nU8fG26-slpTWQpAdBk6YPVdZo-7U'  # Iyong Token
+API_TOKEN = '8710564963:AAEe2MT5aMjUz3bUoKKnb7250AqnGHYfDRw'  # Iyong Token
 bot = telebot.TeleBot(API_TOKEN)
 
 OWNER_ID = 6531314640
