@@ -1140,7 +1140,7 @@ def handle_callbacks(call):
             formatted_accs = "\n".join(allocated)
             deliv_msg = (
                 "✅ ORDER CONFIRMED & DELIVERED\n"
-                f"Product: {'REGULAR CARS' if ('REGULAR' in prod_name.upper() or "CAR" in prod_name.upper()) else 'VIP ACCOUNTS'}\n"
+                f"Product: {'REGULAR CARS' if ('REGULAR' in prod_name.upper() or "CAR" in prod_name.upper() else 'VIP ACCOUNTS'}\n"
                 f"Quantity: {qty}\n"
                 f"Account Details:\n{formatted_accs}\n"
                 "Status: ✅ COMPLETED\n\n"
