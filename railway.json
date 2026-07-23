@@ -10,39 +10,39 @@
     },
     "OWNER_ID": {
       "description": "Owner ID",
-      "value": "6531314640"
+      "value": "6876395516"
     },
     "EXTRA_ADMIN": {
       "description": "Extra Admin ID",
-      "value": "8650959684"
+      "value": "8592050950"
     },
     "STARS_CHANNEL_ID": {
       "description": "Stars Channel ID",
-      "value": "-1003846885691"
+      "value": "-1002909404392"
     },
     "LOGS_GROUP_ID": {
       "description": "Logs Group ID",
-      "value": "-1003957577057"
+      "value": "-1003533865092"
     },
     "GARAGE_LOGS_GROUP_ID": {
       "description": "Garage Logs Group ID",
-      "value": "-1003957577057"
+      "value": "-1003533865092"
     },
     "PAYPAL_EMAIL_1": {
       "description": "PayPal Email 1",
-      "value": "markryanmanoguid867@gmail.com"
+      "value": ""
     },
     "PAYPAL_EMAIL_2": {
       "description": "PayPal Email 2",
-      "value": "tnremail@gmail.com"
+      "value": ""
     },
     "PAYMAYA_NAME": {
-      "description": "PayMaya Name",
-      "value": "MARKRYAN MANOGUID"
+      "description": "GOOGLEPAY Name",
+      "value": "NASRAF NAVAS"
     },
     "PAYMAYA_NUM": {
-      "description": "PayMaya Number",
-      "value": "09281630511"
+      "description": "GOOGLEPAY Number",
+      "value": "8891954213"
     },
     "DATABASE_URL": {
       "description": "Database URL",
