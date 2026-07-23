@@ -5,7 +5,7 @@
   "keywords": ["telegram", "bot", "shop", "cpm2"],
   "env": {
     "API_TOKEN": {
-      "description": "Telegram Bot API Token from @BotFather",
+      "description": "8146301508:AAFuRTdlN99BI8Vg3ctPHIet51lCj2NBH-M",
       "required": true
     },
     "OWNER_ID": {
